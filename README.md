@@ -1,3 +1,5 @@
+#### Link to the team github https://github.com/MADTogetherness/PlanteraApp
+
 # PlanteraApp
 #### We are very happy to announce our first app from team pointy fingers "Plantera". The name "Plantera" is made up of mainly 2 words; Plant & era meaning The era of plants & plant lovers. Let's adapt more plants, clean the environment from the toxic CO2 & save our future.
 __________
