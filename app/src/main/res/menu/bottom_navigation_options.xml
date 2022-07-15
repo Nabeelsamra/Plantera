@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/calendar"
+        android:title="@string/calender"
+        android:enabled="true"
+        android:icon="@drawable/ic_upcoming_tasks_icon_24"/>
+
+    <item
+        android:id="@+id/search"
+        android:title="@string/search"
+        android:enabled="true"
+        android:icon="@drawable/ic_search_icon_24" />
+
+    <!--    Add New Plants Option-->
+    <item
+        android:id="@+id/placeholder"
+        android:enabled="false"
+        android:title=""/>
+
+    <item android:id="@+id/all_plants"
+        android:enabled="true"
+        android:title="@string/all_plants"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_my_plants_view_icon_v24"/>
+
+    <item android:id="@+id/settings"
+        android:enabled="true"
+        android:title="@string/settings"
+        android:menuCategory="secondary"
+        android:icon="@drawable/ic_settings_icon_v24"/>
+
+</menu>
